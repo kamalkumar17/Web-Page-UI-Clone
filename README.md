@@ -28,3 +28,5 @@ Here are some screenshots of the app in action:
 
 1. **Main Interface**:
    ![Screenshot 1](/image/output_image.png)
+   
+![Screenshot 2024-11-13 223036](https://github.com/user-attachments/assets/a7a4c82b-3622-4d80-84c9-3ebdb5bfe5ee)
